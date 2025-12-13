@@ -7,3 +7,5 @@
 
 
 ##JAVASCRIPT
+- [アロー関数について](html,scc,javascript/アロー関数について.md)
+- [map()関数について](html,scc,javascript/map()関数について.md)

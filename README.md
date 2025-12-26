@@ -20,3 +20,4 @@
 - [配列を繰り返し処理で](html,scc,javascript/PHP配列を繰り返し処理で.md)
 - [メソッドの使い方を学ぼう](html,scc,javascript/メソッドの使い方を学ぼう.md)
 - [コンストラクタのプロパティ昇格について](html,scc,javascript/コンストラクタのプロパティ昇格について.md)
+- [インターフェース](html,scc,javascript/インターフェース.md)
